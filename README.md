@@ -9,17 +9,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - 💬 Ask me about web development, machine learning, and cloud computing
 - 📫 How to reach me: [Email](mailto:cinthia.costa@example.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love hiking and exploring new places
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Django, Spring Boot
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Git, Docker, Kubernetes, Jenkins
-- **Cloud**: AWS, Azure, Google Cloud
+- **Languages**: HTML, CSS, JavaScript
+- **Databases**: MySQL
 
 ## 📈 GitHub Stats
-![Cinthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cinthia-costa&show_icons=true&theme=radical)
 
 ## 🌟 Projects
 
